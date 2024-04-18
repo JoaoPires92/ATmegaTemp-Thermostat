@@ -1,0 +1,179 @@
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.Cache
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+L:\_VB_Projects\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_old\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Register Downloader\WFA_ArduinoSerial_001_19DEC18\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\Event Downloader\WFA_ArduinoSerial_001_17JAN19\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\TFT Touch Screen\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\nunesjp\Desktop\Arduino\Events Downloader App\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_RHTemp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Form1.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.xml
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\obj\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe.config
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.exe
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.pdb
+C:\Users\pires\Desktop\JOÃO\Arduino\Projectos\ATmega RhTemp\Events Downloader App_Temp\WFA_ArduinoSerial_001\bin\Debug\WFA_ArduinoSerial_001.xml
