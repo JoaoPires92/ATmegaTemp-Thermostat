@@ -17,7 +17,7 @@ This equipment has the following characteristics:
 
 This equipment is currently running at my Dad's home controlling his water and heating system through a 3way valve that commutes between heating hot water tank or heating the house radiators system. 
 
-![imagem](https://github.com/JoaoPires92/ATmegaTemp-Thermostat/assets/165892597/ca73f9ce-744f-43d7-b9ce-837ae494695b)
+
 ![imagem](https://github.com/JoaoPires92/ATmegaTemp-Thermostat/assets/165892597/15ab58ce-829f-4dc1-8ae3-41d1b21eadc0)
 ![imagem](https://github.com/JoaoPires92/ATmegaTemp-Thermostat/assets/165892597/4a6e9806-27b6-464f-b2a7-f44c7dda65d4)
 ![imagem](https://github.com/JoaoPires92/ATmegaTemp-Thermostat/assets/165892597/a89ed3c5-0f4e-4dcd-a05d-4a4caf1218fb)
